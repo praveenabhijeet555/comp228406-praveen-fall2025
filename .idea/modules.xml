@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Midterm.iml" filepath="$PROJECT_DIR$/Midterm/Midterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PraveenTripathi_COMP228_406/PraveenTripathi_COMP228_406.iml" filepath="$PROJECT_DIR$/PraveenTripathi_COMP228_406/PraveenTripathi_COMP228_406.iml" />
       <module fileurl="file://$PROJECT_DIR$/Praveen_COMP228Lab1/Praveen_COMP228Lab1.iml" filepath="$PROJECT_DIR$/Praveen_COMP228Lab1/Praveen_COMP228Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Praveen_COMP228Lab2/Praveen_COMP228Lab2.iml" filepath="$PROJECT_DIR$/Praveen_COMP228Lab2/Praveen_COMP228Lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Praveen_COMP228Lab3/Praveen_COMP228Lab3.iml" filepath="$PROJECT_DIR$/Praveen_COMP228Lab3/Praveen_COMP228Lab3.iml" />
