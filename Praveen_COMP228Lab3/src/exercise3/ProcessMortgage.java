@@ -1,5 +1,4 @@
 package exercise3;
-// Praveen Tripathi
 
 import javax.swing.*;
 

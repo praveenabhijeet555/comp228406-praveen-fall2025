@@ -1,5 +1,4 @@
 package exercise2;
-// Praveen Tripathi
 
 public class PartTimeGameTester extends GameTester{
     private int salary;

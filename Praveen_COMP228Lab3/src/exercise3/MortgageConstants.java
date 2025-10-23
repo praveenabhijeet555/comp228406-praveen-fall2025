@@ -1,5 +1,4 @@
 package exercise3;
-// Praveen Tripathi
 
 public interface MortgageConstants {
     int short_term = 1;

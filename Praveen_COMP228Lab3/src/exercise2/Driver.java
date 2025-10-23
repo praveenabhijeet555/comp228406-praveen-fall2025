@@ -1,5 +1,4 @@
 package exercise2;
-// Praveen Tripathi
 
 import java.util.Scanner;
 
